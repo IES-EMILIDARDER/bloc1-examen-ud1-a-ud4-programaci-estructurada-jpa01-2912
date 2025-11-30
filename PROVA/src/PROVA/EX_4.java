@@ -9,12 +9,11 @@ public class EX_4 {
         
         // Genera un array de 10 posicions amb números aleatoris entre 0 i 9
         
-        // Calcula l''ArrayList' emprant el mètode 'obteRepetitsOrdenat'
-        //   NOTA: el mètode 'obteRepetitsOrdenat' pot servir-se dels mètodes anteriors:
+        // Calcula l''ArrayList' emprant el métode 'obteRepetitsOrdenat'
+        //   NOTA: el métode 'obteRepetitsOrdenat' pot servir-se dels métodes anteriors:
         //         'obteRepetits' -> 'arrayListToArray' -> 'ordenaArray'
         
         // Mostra l''ArrayList' resultant
         
     }
 }
-
